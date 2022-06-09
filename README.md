@@ -202,3 +202,5 @@ Version:           20.10.16 (или что-то похожее)
 Офф гайд по установке [тут](https://docs.forta.network/en/latest/scanner-quickstart/)
 
 Гайд по регистрации ноды [тут](https://forta.notion.site/Forta-Fortification-Network-4a8af3ab4aea480d993e5095ad0ed746) 
+
+Чекер [тут](https://asddsa.ru/forta/checker.html)
